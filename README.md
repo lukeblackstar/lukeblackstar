@@ -11,7 +11,7 @@
   <img height=“30” width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img height=“30” width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height=“30” width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="right" height="50" width="60" src="https://media.tenor.com/qljo2BEYlVMAAAAM/dio-brando-dio.gif">
+  <img align="right" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmMM5r2V06vVoJtx_jRPbBzAlc5IHR2QHfA&usqp=CAU">
 </div>
 
 <div>
