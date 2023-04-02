@@ -14,5 +14,5 @@
 </div>
 
 <div>
- <img align="right" src="https://media.tenor.com/qljo2BEYlVMAAAAM/dio-brando-dio.gif">
+ <img align="right" height="50" width="60" src="https://media.tenor.com/qljo2BEYlVMAAAAM/dio-brando-dio.gif">
 
