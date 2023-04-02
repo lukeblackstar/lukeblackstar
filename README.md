@@ -18,3 +18,6 @@
 
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<div>
+ <a href="instagram.com/lukeblackstar">https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white </a>
