@@ -16,3 +16,4 @@
 <div>
  <img align="right" height="50" width="60" src="https://media.tenor.com/qljo2BEYlVMAAAAM/dio-brando-dio.gif">
 
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
