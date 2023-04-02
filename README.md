@@ -11,10 +11,10 @@
   <img height=“30” width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img height=“30” width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height=“30” width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="right" height="50" width="60" src="https://media.tenor.com/qljo2BEYlVMAAAAM/dio-brando-dio.gif">
 </div>
 
 <div>
- <img align="right" height="50" width="60" src="https://media.tenor.com/qljo2BEYlVMAAAAM/dio-brando-dio.gif">
 
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 </div>
