@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Lucas Andrade!
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante de Ciência da Computação, apaixonado por tecnologia, desenvolvimento de software e automação. Este é o meu espaço onde compartilho projetos, aprendizagens e contribuições para a comunidade.
+Bem-vindo ao meu perfil do GitHub! Sou estudante de Ciência da Computação, gosto de tecnologia, desenvolvimento de software e automação. Este é o meu espaço onde compartilho projetos e aprendizagens.
 
 ---
 
