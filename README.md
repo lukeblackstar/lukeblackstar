@@ -10,12 +10,6 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Ciência da Computação, go
 
 ---
 
-## 🗂️ Projetos
-
-[![Readme Card]](https://github.com/the-heapsters-account/duck-manager)
-
----
-
 ## 🛠️ Ferramentas & Tecnologias
 
 <p>
