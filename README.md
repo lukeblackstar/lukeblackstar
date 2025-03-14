@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Ciência da Computação, go
 
 ## 🗂️ Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-heapsters-account&repo=projeto-de-extensao-de-java&theme=tokyonight)](https://github.com/the-heapsters-account/duck-manager)
+[![Readme Card]](https://github.com/the-heapsters-account/duck-manager)
 
 ---
 
