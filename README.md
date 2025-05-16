@@ -8,5 +8,5 @@ Me chamo Lucas Andrade, tenho 18 anos e sou natural de Belém, Pará. Atualmente
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,python,java,c,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,python,java,c,powershell,typescript)](https://skillicons.dev)
 
