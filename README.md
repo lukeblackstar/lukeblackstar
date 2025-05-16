@@ -28,10 +28,4 @@ Me chamo Lucas Andrade, tenho 17 anos e sou natural de Belém, Pará. Atualmente
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeblackstar&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
-<img 
-      align="left" 
-      alt="Repository Contribution stats" 
-      height="150" 
-      src="https://github-contributor-stats.vercel.app/api?username=lukeblackstar&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_legend=true" 
-  />
 </p>
